@@ -136,5 +136,3 @@ A short demo video showing:
 - Validation flow
 - Session timer
 - Logout behavior
-
-(Uploaded as per submission instructions)
